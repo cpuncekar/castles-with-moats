@@ -1,4 +1,4 @@
-# castles-with-moats
+# Castles with Moats
 Castles with Moats - AI
 
 
