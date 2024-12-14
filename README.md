@@ -5,7 +5,8 @@ A creative exploration of AI-generated castles surrounded by moats. This project
 
 ---
 
-![castles-with-moats/0_1.jpg]
+![Castle with a Moat](./0_1.jpg)
+![Castle with a Moat](https://www.midjourney.com/jobs/f859ef83-bd7a-4cc3-bcae-f4d36587529f?index=0)
 
 ---
 
