@@ -5,7 +5,7 @@ A creative exploration of AI-generated castles surrounded by moats. This project
 
 ---
 
-![0_1.jpg]
+![castles-with-moats/0_1.jpg]
 
 ---
 
