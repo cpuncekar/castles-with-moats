@@ -10,6 +10,9 @@ A creative exploration of AI-generated castles surrounded by moats. This project
 
 ![Castle with a Moat description - "create a hyper realistic image of a beautiful castle of medieval period. 8kresolution"][https://www.midjourney.com/jobs/813890c1-fba2-4dcd-9252-1227b2658c53?index=0]
 
+![Castle with a Moat](./0-imaginative-castle-with-moat.jpg)
+[Castle with a Moat - Imaginative](https://www.midjourney.com/jobs/210ab05f-8d2a-4f29-a2e2-4444aecdb2f8?index=0)
+
 ---
 
 ## About the Project
